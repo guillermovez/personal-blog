@@ -91,4 +91,22 @@ import ThemeToggle from './ThemeToggle.astro';
 			display: none;
 		}
 	}
+	@media (max-width: 600px) {
+		header {
+			padding: 0.5em 1em;
+		}
+		nav {
+			flex-wrap: wrap;
+			gap: 0.5em;
+		}
+		.internal-links {
+			width: 100%;
+			display: flex;
+			justify-content: center;
+			order: 3;
+		}
+		nav a {
+			padding: 0.5em 0.5em;
+		}
+	}
 </style>
