@@ -1,7 +1,7 @@
 ---
 title: 'Primeras impresiones'
 description: 'Organización con Agile y parálisis por análisis'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jul 27 2026'
 ---
 
 Tenía algunas dudas relacionadas a Diseño y Arquitectura de software para comenzar el proyecto, mi temor era que una mala decisión afectara el desarrollo a futuro pero decidí tener un enfoque más pragmático gracias a una pequeña revisión del principio de **satisfacción del cliente** en Agile y la **entrega** como parte del núcleo de SCRUM.
